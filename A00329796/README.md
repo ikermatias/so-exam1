@@ -48,6 +48,7 @@ Se utilizaron los siguientes comandos para obtener información del SO instalado
 **5 punto**
 
 Se realizó a través de las configuraciones de la VM una configuración de interface tipo puente y se conectó a la VM desde PuttY. 
+
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/dv84jn/Captura_de_pantalla_de_2018_04_01_20_23_53.png" alt="Captura de pantalla de 2018 04 01 20 23 53" border="0" /></a> 
 
 **6 punto**
