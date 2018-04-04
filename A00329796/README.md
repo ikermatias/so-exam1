@@ -18,6 +18,7 @@ Realizar primer parcial del curso Sistemas Operativos Universidad Icesi
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/bO6FPn/Captura_de_pantalla_de_2018_03_27_14_50_20.png" alt="Captura de pantalla de 2018 03 27 14 50 20" border="0" /></a>
 
 2. Una vez dado click en SHA1SUM nos encontramos las claves de verificaciones para las ISO, en nuestro caso nos sirve la primera
+
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/dtJJc7/Captura_de_pantalla_de_2018_03_27_14_51_11.png" alt="Captura de pantalla de 2018 03 27 14 51 11" border="0" /></a>
 
 3. Nos paramos en la carpeta donde descargamos la ISO y para usuarios Linux como yo, ejecutamos el comando -->
@@ -42,23 +43,25 @@ Se utilizaron los siguientes comandos para obtener información del SO instalado
    ~~~
 
 **5 punto**
-Se realizó a través de las configuraciones de la VM una configuración de interface tipo puente y se conectó a la VM desde PuttY
+Se realizó a través de las configuraciones de la VM una configuración de interface tipo puente y se conectó a la VM desde PuttY 
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/dv84jn/Captura_de_pantalla_de_2018_04_01_20_23_53.png" alt="Captura de pantalla de 2018 04 01 20 23 53" border="0" /></a>
 
 **6 punto**
 Para la instalación de git se debe utilizar el siguiente comando
---> sudo apt-get install git
-<a href="https://ibb.co/mG9APn"><img src="https://preview.ibb.co/dnuc4n/Captura_de_pantalla_de_2018_04_01_20_35_12.png" alt="Captura de pantalla de 2018 04 01 20 35 12" border="0" /></a>
-Se oprime la tecla S para continuar la descarga y la instalación
+~~~
+--> sudo apt-get install git 
+~~~ 
+<a href="https://ibb.co/mG9APn"><img src="https://preview.ibb.co/dnuc4n/Captura_de_pantalla_de_2018_04_01_20_35_12.png" alt="Captura de pantalla de 2018 04 01 20 35 12" border="0" /></a> 
+Se oprime la tecla S para continuar la descarga y la instalación 
 
 Para la instalación de tig se debe utilizar el siguiente comando
 -->
 ~~~
 sudo apt-get install tig
-~~~
+~~~ 
 <a href="https://ibb.co/jCvTAS"><img src="https://preview.ibb.co/ccgeH7/Captura_de_pantalla_de_2018_04_01_21_45_46.png" alt="Captura de pantalla de 2018 04 01 21 45 46" border="0" /></a>
 
-Adjunto imagen con el historial de commits
+Adjunto imagen con el historial de commits 
 <a href="https://ibb.co/bXCGHH"><img src="https://preview.ibb.co/bHmMjx/Captura_de_pantalla_de_2018_04_01_23_19_52.png" alt="Captura_de_pantalla_de_2018_04_01_23_19_52" border="0"></a>
 
 **7 Punto**
