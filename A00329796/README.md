@@ -23,9 +23,9 @@ Realizar primer parcial del curso Sistemas Operativos Universidad Icesi
 
 3. Nos paramos en la carpeta donde descargamos la ISO y para usuarios Linux como yo, ejecutamos el comando -->
 ~~~
-shasum
+shasum 'nombreImagen.iso' 
 ~~~
-'nombreImagen.iso' y este comando nos arrojará la clave de verificación de la hizo descargada
+y este comando nos arrojará la clave de verificación de la hizo descargada
 <a href="https://ibb.co/eHQaPn"><img src="https://preview.ibb.co/gq09jn/Captura_de_pantalla_de_2018_03_27_14_52_15.png" alt="Captura de pantalla de 2018 03 27 14 52 15" border="0" /></a>
 
 4.Por último validos los dos códigos de verificación que tenemo (el de la página de Debian y el arrojado por el comando) estas dos claves tienen que ser identicas para poder utilizar la hizo con plena confianza.
